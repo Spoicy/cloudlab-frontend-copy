@@ -1,0 +1,7 @@
+{
+    "region": "eu-central-1",
+    "userPoolId": "eu-central-1_ym8cgmmuM",
+    "clientId": "40au4c7iggnu0eklobv9jr8va1",
+    "uploadApiUrl": "https://q2nrregw79.execute-api.eu-central-1.amazonaws.com/main/upload",
+    "userEmailApiUrl": "https://q2nrregw79.execute-api.eu-central-1.amazonaws.com/main/user-email"
+}
